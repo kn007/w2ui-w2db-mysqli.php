@@ -1,6 +1,6 @@
 ##PHP MySQLi extension support for w2ui (w2db.php)
 
-[kn007's blog](http://kn007.net) 
+[kn007's blog](https://kn007.net) 
 
 ##Description
 
